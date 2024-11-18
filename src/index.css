@@ -1,0 +1,42 @@
+
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+nav ul{
+  list-style: none;
+  text-decoration-line: underline;
+}
+nav ul li{
+  display: inline-block;
+  margin: 10px;
+}
+  .footer{
+    position: absolute;
+  bottom: 0;
+  text-align: center;
+  padding: 20px;
+
+  }
+ .footer{
+  border-top: 2px solid;
+  width: 100%;
+
+  display: flex;          
+  justify-content: space-around
+  
+  
+}
+
+h2{
+  text-align: center;
+  margin-top: 50px;
+  font-size: 100px;
+  font-weight: normal;
+
+}
+  .footer li{
+    list-style: none;
+    text-decoration: underline;
+
+  }
